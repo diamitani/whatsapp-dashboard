@@ -1,0 +1,7 @@
+{
+  "appLocation": "/",
+  "apiLocation": "",
+  "outputLocation": "dist",
+  "appBuildCommand": "npm run build",
+  "rootPath": "/"
+}
